@@ -19,19 +19,25 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ball.cpp" />
-    <ClCompile Include="Brick.cpp" />
-    <ClCompile Include="Button.cpp" />
-    <ClCompile Include="Game.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="Paddle.cpp" />
+    <ClCompile Include="src\Ball.cpp" />
+    <ClCompile Include="src\Brick.cpp" />
+    <ClCompile Include="src\Button.cpp" />
+    <ClCompile Include="src\Game.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Paddle.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Ball.h" />
-    <ClInclude Include="Brick.h" />
-    <ClInclude Include="Button.h" />
-    <ClInclude Include="Game.h" />
-    <ClInclude Include="Paddle.h" />
+    <ClInclude Include="src\Ball.h" />
+    <ClInclude Include="src\Brick.h" />
+    <ClInclude Include="src\Button.h" />
+    <ClInclude Include="src\Game.h" />
+    <ClInclude Include="src\Paddle.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="src\leaderboard.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\LICENSE" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

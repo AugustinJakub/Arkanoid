@@ -1,0 +1,6 @@
+player,1295,Hard
+augustin,140,Hard
+augustin,140,Hard
+augustin,140,Hard
+augustin,75,Medium
+augustin,0,Easy
