@@ -1,5 +1,6 @@
-# Arkanoid — Custom 2D Game
+<img width="500" height="100" alt="Screenshot 2026-07-08 123236" src="https://github.com/user-attachments/assets/625ac7d7-3d75-4dd9-89ed-0bd99e4ed8b7" />
 
+# Arkanoid Custom 2D Game
 **Arkanoid** is a classic 2D arcade game I wrote in C++ using the SFML library to handle the window, graphics, and audio. The main goal of this project was to practice Object-Oriented Programming, polymorphism and implement my own collision detection system from scratch.
 
 ## Features & Architecture
@@ -11,7 +12,7 @@ The project is split into modular components to keep the code clean and structur
 * **Game Logic & UI:** Includes a functional main menu, a player lives system, score tracking, and persistent data storage.
 
 
-<img width="950" height="540" alt="Screenshot 2026-07-02 121851" src="https://github.com/user-attachments/assets/d5f6aaa9-06b2-4d9a-b036-3b30c201c648" />
+<img width="1915" height="1075" alt="Screenshot 2026-07-08 123100" src="https://github.com/user-attachments/assets/87767bd2-f0f1-4bbd-bfa2-9f07b5edcf3e" />
 
 
 ## Tech Stack
